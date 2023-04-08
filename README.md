@@ -1,5 +1,4 @@
-# OIBSIP
-Data Science Projects
+# OASIS INFOBYTE DATA SCIENCE INTERNSHIP TASKS
 
 Problem Statements:-
 
